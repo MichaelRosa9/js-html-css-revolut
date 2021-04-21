@@ -83,7 +83,7 @@ margin: 0 5px;
 .nav-right .dropdown-menu {
   position: absolute;
   top: 40px;
-  padding: 20px;
+  padding: 10px 0;
   background-color: #fff;
   box-shadow: 0 2px 10px rgba(0, 0, 0, .2);
   display: none;
@@ -107,6 +107,8 @@ margin: 0 5px;
 .dropdown-menu.active {
   display: block;
 }
+
+
 /* color */
 .black {
   color: black;
